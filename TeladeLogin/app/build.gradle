@@ -27,8 +27,8 @@ android {
     }
 }
 
-id 'com.android.application'
-id 'com.google.gms.google-services'
+apply plugins: 'com.android.application'
+apply plugins: 'com.google.gms.google-services'
 
 dependencies {
 

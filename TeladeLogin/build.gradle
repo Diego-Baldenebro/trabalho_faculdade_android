@@ -5,17 +5,17 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath "classpath 'com.google.gms:google-services:4.3.13'"
-        classpath "classpath 'com.google.gms:google-services:4.3.13'"
+        classpath "com.google.gms:google-services:4.3.13"
+        classpath 'com.google.gms:google-services:4.3.13'
     }
 }
 
-            allprojects {
-                repositories {
-                    google()
-                    mavenCentral()
-                }
-            }
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
 
 task clean(type: Delete) {
     delete rootProject.buildDir
