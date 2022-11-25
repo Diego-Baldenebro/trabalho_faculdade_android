@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639234126405",
+    "project_id": "projeto-pim-20ca7",
+    "storage_bucket": "projeto-pim-20ca7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639234126405:android:81f12faa6e1b3d5873292c",
+        "android_client_info": {
+          "package_name": "com.example.teladelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639234126405-53pq1vng5b8voafug0bgdnu5rd70epm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrM65Fzo2wdypwY9voPxOFl_EjlrkCrt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639234126405-53pq1vng5b8voafug0bgdnu5rd70epm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
