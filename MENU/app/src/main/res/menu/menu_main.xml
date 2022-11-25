@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menu.MainActivity">
+    <item
+        android:id="@+id/pagamentos"
+        android:orderInCategory="100"
+        android:title="PAGAMENTOS"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sobre_plano"
+        android:orderInCategory="100"
+        android:title="SOBRE SEU PLANO"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/beneficiarios"
+        android:orderInCategory="100"
+        android:title="BENEFICIÁRIOS"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/sobre_empresa"
+        android:orderInCategory="100"
+        android:title="SOBRE A EMPRESA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/contratos"
+        android:orderInCategory="100"
+        android:title="CONTRATO"
+        app:showAsAction="never" />
+</menu>
