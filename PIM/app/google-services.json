@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "458660313934",
+    "project_id": "top-seguros-brasil",
+    "storage_bucket": "top-seguros-brasil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458660313934:android:9c05b10b53a363c44dbc1f",
+        "android_client_info": {
+          "package_name": "com.example.pim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458660313934-jea5h8dpb1t0mupg7uvadefsah4hh66o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnbQfcOQuf8UQUCqhjdLv7Fm-YCPM4zh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458660313934-jea5h8dpb1t0mupg7uvadefsah4hh66o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
